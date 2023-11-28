@@ -11,3 +11,4 @@ public class TempleRun : ModuleRules
 		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "EnhancedInput" });
 	}
 }
+ 
